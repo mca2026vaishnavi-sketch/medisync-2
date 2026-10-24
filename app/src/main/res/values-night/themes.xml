@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.MediSync" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#35F2D0</item>
+        <item name="colorOnPrimary">#06131B</item>
+        <item name="colorSecondary">#7C83FF</item>
+        <item name="android:colorAccent">#35F2D0</item>
+        <item name="android:statusBarColor">#0A1422</item>
+        <item name="android:navigationBarColor">#0A1422</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#0A1422</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+    <style name="Theme.MediSync" parent="Base.Theme.MediSync" />
+</resources>
